@@ -1,0 +1,6 @@
+{
+  "name": "Urbanmart",
+  "description": "Smart online grocery shopping with real-time inventory, secure checkout, and comprehensive test suite verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

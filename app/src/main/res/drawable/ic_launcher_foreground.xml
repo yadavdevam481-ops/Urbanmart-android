@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bag Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M44,45 C44,37 64,37 64,45" />
+    <!-- Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,45 L74,45 L70,82 C69.7,84 68,85 66,85 L42,85 C40,85 38.3,84 38,82 Z" />
+    <!-- Grocery leaf accent -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,52 C50,52 46,55 46,60 C50,60 55,57 55,52 Z" />
+    <!-- Fresh orange / apple accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,63 C63,63 65,60.8 65,58 C65,55.2 63,53 60,53 C57,53 55,55.2 55,58 C55,60.8 57,63 60,63 Z" />
+    <!-- Bag Fold Line Accent -->
+    <path
+        android:strokeColor="#0A4D34"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M39,52 L69,52" />
+</vector>
